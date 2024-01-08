@@ -1,0 +1,30 @@
+/*common shared style*/
+body{
+    font-family: 'lato',sans-serif;
+    font-family: 'open sans',sans-serif;
+}
+
+
+/*nav releted style*/
+nav{
+    text-align: center;
+}
+  .header{
+      background-image: url('../RESOURCES/Banner Image.png') ;
+    width: 100%;
+    max- width:1320px ;
+    margin: 0px;
+}
+.bannar-title{
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 95px;  
+}
+.imgwidth: 1320px;
+height: 600px;
+flex-shrink: 0;{
+
+}
